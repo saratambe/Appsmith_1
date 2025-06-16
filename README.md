@@ -9,3 +9,18 @@ This app is built using Appsmith. Turn any datasource into an internal app in mi
 ##### You can visit the application using the below link
 
 ###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://tambe.appsmith.com/applications/684c8bc93bc21864e6eefb90/pages/684c8bc93bc21864e6eefb93) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](https://tambe.appsmith.com/applications/684c8bc93bc21864e6eefb90/pages/684c8bc93bc21864e6eefb93/edit)
+
+# Appsmith - Interface Utilisateur
+
+## Fonctionnalités
+- Liste déroulante des médecins
+- Formulaire prérempli avec champs : nom, prénom, adresse, téléphone, etc.
+- Bouton "Envoyer" connecté à un Webhook n8n
+
+## Données dynamiques
+- Source : base SQL via Alwaysdata
+- Champs liés aux widgets avec bindings {{ }}
+
+## Test
+- Exemple de recherche : "Dr Dupont"
+- Exemple de soumission via bouton
