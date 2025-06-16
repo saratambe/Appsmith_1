@@ -1,0 +1,11 @@
+INSERT INTO medecins (nom, prenom, adresse, ville, telephone, honoraires, secteur, specialite)
+VALUES (
+  '{{Input1.text}}',
+  '{{Input2.text}}',
+  '{{Input3.text}}',
+  '{{Input4.text}}',
+  '{{Input5.text}}',
+  {{Input6.text}},
+  {{Input7.text}},
+  '{{Input8.text}}'
+);

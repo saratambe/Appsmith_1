@@ -1,0 +1,10 @@
+{
+ "nom": "{{Input1.text}}",
+  "prenom": "{{Input2.text}}",
+  "adresse": "{{Input3.text}}",
+  "ville": "{{Input4.text}}",
+  "telephone": "{{Input5.text}}",
+  "honoraires": "{{Input6.text}}",
+  "secteur": "{{Input7.text}}",
+  "specialite": "{{Input8.text}}"
+}

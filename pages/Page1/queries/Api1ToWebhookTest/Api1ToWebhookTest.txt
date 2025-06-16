@@ -1,0 +1,10 @@
+{
+  "nom": "Test Nom",
+  "prenom": "Test Prénom",
+  "adresse": "12 rue de la République",
+  "ville": "Testville",
+  "telephone": "0601020304",
+  "honoraires": 70,
+  "secteur": 1,
+  "specialite": "Testologie"
+}
